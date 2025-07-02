@@ -20,7 +20,7 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Index(string Fullname, string Address)
     {
-        string str0utput = "Xinchao" + Fullname + "Den tu" + Address;
+        string str0utput = "Xin chao" + Fullname + "Den tu" + Address;
         ViewBag.Message = str0utput;
         return View();
     }
