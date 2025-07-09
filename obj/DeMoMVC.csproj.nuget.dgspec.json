@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10 Pro\\Documents\\Lê_Hương_Giang\\DeMoMVC\\DeMoMVC.csproj": {}
+    "C:\\Users\\admin\\Downloads\\Le_Huong_Giang\\DeMoMVC\\DeMoMVC\\DeMoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10 Pro\\Documents\\Lê_Hương_Giang\\DeMoMVC\\DeMoMVC.csproj": {
+    "C:\\Users\\admin\\Downloads\\Le_Huong_Giang\\DeMoMVC\\DeMoMVC\\DeMoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10 Pro\\Documents\\Lê_Hương_Giang\\DeMoMVC\\DeMoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Le_Huong_Giang\\DeMoMVC\\DeMoMVC\\DeMoMVC.csproj",
         "projectName": "DeMoMVC",
-        "projectPath": "C:\\Users\\Windows 10 Pro\\Documents\\Lê_Hương_Giang\\DeMoMVC\\DeMoMVC.csproj",
-        "packagesPath": "C:\\Users\\Windows 10 Pro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10 Pro\\Documents\\Lê_Hương_Giang\\DeMoMVC\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Downloads\\Le_Huong_Giang\\DeMoMVC\\DeMoMVC\\DeMoMVC.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\Le_Huong_Giang\\DeMoMVC\\DeMoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10 Pro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

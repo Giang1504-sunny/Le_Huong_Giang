@@ -1,57 +1,77 @@
 is_global = true
 build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DeMoMVC
 build_property.RootNamespace = DeMoMVC
-build_property.ProjectDir = C:\Users\Windows 10 Pro\Documents\Lê_Hương_Giang\DeMoMVC\
+build_property.ProjectDir = C:\Users\admin\Downloads\Le_Huong_Giang\DeMoMVC\DeMoMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Windows 10 Pro\Documents\Lê_Hương_Giang\DeMoMVC
+build_property.MSBuildProjectDirectory = C:\Users\admin\Downloads\Le_Huong_Giang\DeMoMVC\DeMoMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/HelloWorld/Index.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Home/Index.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Home/Privacy.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Person/Index.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Shared/Error.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/_ViewImports.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/_ViewStart.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windows 10 Pro/Documents/Lê_Hương_Giang/DeMoMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dgeuxlt9u0
