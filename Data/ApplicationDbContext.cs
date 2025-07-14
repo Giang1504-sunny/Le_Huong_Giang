@@ -1,5 +1,7 @@
 using DeMoMVC.Models;
+using DeMoMVC.Models.Entities;
 using Microsoft.EntityFrameworkCore;
+using StudentModel = DeMoMVC.Models.Entities.Student;
 
 namespace DeMoMVC.Data
 {
@@ -9,7 +11,10 @@ namespace DeMoMVC.Data
             : base(options)
         {
         }
-        public DbSet<Student> Students { get; set; } = null!;
-        public DbSet<Person> Person { get; set; } = null!;
+    
+    public DbSet<DaiLy> DaiLys { get; set; } = null!;
+    public DbSet<StudentModel> Students { get; set; } = null!;
+        public DbSet<Person> Persons { get; set; } = null!;
+        public DbSet<DeMoMVC.Models.HeThongPhanPhoi> HeThongPhanPhoi { get; set; } = default!;
     }
 }

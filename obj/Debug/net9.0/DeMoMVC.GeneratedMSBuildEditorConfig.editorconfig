@@ -28,8 +28,48 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/DaiLy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpTHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/DaiLy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpTHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/DaiLy/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpTHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/DaiLy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpTHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/DaiLy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpTHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HeThongPhanPhoi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVUaG9uZ1BoYW5QaG9pXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HeThongPhanPhoi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVUaG9uZ1BoYW5QaG9pXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HeThongPhanPhoi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVUaG9uZ1BoYW5QaG9pXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HeThongPhanPhoi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVUaG9uZ1BoYW5QaG9pXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/HeThongPhanPhoi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVUaG9uZ1BoYW5QaG9pXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Home/Index.cshtml]
@@ -62,6 +102,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Student/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/Downloads/Le_Huong_Giang/DeMoMVC/DeMoMVC/Views/_ViewImports.cshtml]

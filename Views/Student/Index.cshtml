@@ -1,4 +1,4 @@
-@model IEnumerable<DeMoMVC.Models.Person>
+@model IEnumerable<DeMoMVC.Models.Entities.Student>
 
 @{
     ViewData["Title"] = "Index";
@@ -13,10 +13,13 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.PersonID)
+                @Html.DisplayNameFor(model => model.StudentID)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
             </th>
             <th></th>
         </tr>
@@ -26,15 +29,18 @@
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.PersonID)
+                    @Html.DisplayFor(modelItem => item.StudentID)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.FullName)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.PersonID">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.PersonID">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.PersonID">Delete</a>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.StudentID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.StudentID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.StudentID">Delete</a>
                 </td>
             </tr>
         }

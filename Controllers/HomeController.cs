@@ -17,11 +17,19 @@ public class HomeController : Controller
     {
         return View();
     }
-    [HttpPost]
-    public IActionResult Index(string Fullname, string Address)
+
+    public IActionResult Privacy()
     {
-        string str0utput = "Xin chao" + Fullname + "Den tu" + Address;
-        ViewBag.Message = str0utput;
         return View();
+    }
+    public IActionResult Demo()
+    {
+        return View();
+    }
+
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    public IActionResult Error()
+    {
+        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }

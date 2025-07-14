@@ -1,18 +1,11 @@
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
-namespace DeMoMVC.Models
+
+namespace DeMoMVC.Models;
+
+public class Person
 {
-    [Table("Person")]
-
-    public class Person
-    {
-        [Key]
-
-        public string PersonID { get; set; }
-
-        public string FullName { get; set; }
-        public string Address { get; set; }
-        
-    }
+    public string PersonID { get; set; } 
+    public string FullName { get; set; }
+    public string Address { get; set; }
 }
